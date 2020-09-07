@@ -6,5 +6,8 @@ public static void main(String[] args) {
 	String s = "java";
 	String sst = s.substring(2);
 	System.out.println(sst);
+	String a = "do not give up";
+	String trim = a.trim();
+	System.out.println(trim);
 }
 }
